@@ -2,6 +2,8 @@
 A custom devboard using an RP2040
 <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/b85e8ef2-2d3e-4e77-9fc8-5740b21b2f76" />
 <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/09e08fd2-3ce5-40ac-a61f-4d388cacc3f4" />
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/97e8cb47-e3aa-4ade-b014-47dbbcc35136" />
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/a50ed4d2-fb1b-4290-b00e-796bf049c1c6" />
 I used Kai Periera's starter project tutorial on stasis to make this RP2040 devboard.
 I made it because I wanted to develop my skills and make more stuff. I also want to get more soldering practice.
 <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/c0a8f467-eae3-4f3b-b56c-9d6d6739d19d" />
